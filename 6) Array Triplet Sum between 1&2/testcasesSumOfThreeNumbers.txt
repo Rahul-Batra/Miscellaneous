@@ -1,0 +1,14 @@
+Output for input array-[0.25, 1.2, 11.0, 0.7, 0.4, 89.0]; is:Yes
+Output for input array-[0.66, 13.0, 1.0, 0.66, 1.4, 0.68]; is:No
+Output for input array-[1.2, 3.0, 5.0, 0.4, 0.2, 1.0]; is:Yes
+Output for input array-[0.99, 0.99, 0.45, 0.7, 0.2]; is:Yes
+Output for input array-[3.0, 0.01, 0.66, 0.99, 4.0]; is:Yes
+Output for input array-[3.0, 0.01, 0.66, 1.0, 4.0]; is:Yes
+Output for input array-[0.0, 2.0, 0.5, 0.8, 1.7, 0.22, 1.9]; is:Yes
+Output for input array-[0.67, 0.99, 2.0, 3.0, 1.0, 0.01]; is:Yes
+Output for input array-[0.99, 3.0, 0.01, 2.0, 1.11, 1.0]; is:No
+Output for input array-[0.98, 3.0, 0.01, 2.0, 1.11, 1.0]; is:Yes
+Output for input array-[0.33, 0.33, 0.33, 0.33, 0.33]; is:No
+Output for input array-[0.66, 0.66, 0.66, 0.66, 0.66]; is:Yes
+Output for input array-[0.99, 0.99, 0.99, 0.99, 0.99]; is:No
+Output for input array-[1.0, 2.0, 3.0, 4.0, 5.0]; is:No
